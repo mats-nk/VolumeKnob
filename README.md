@@ -1,6 +1,8 @@
 # Volume knob
 
-Did you know that the ESP32-S3 can be used as a HID (Human Interface Device)? Basically, you can program it to act as a keyboard or mouse. I am using this feature in this project.
+Did you know that the ESP32-S3 can be used as a HID (Human Interface Device)?
+
+Basically, you can program it to act as a keyboard or mouse. I am using this feature to send volume up/dowwn, mute to the USB host.
 
 The project also uses a Makerfabs MaTouch 1.28' rotary display, and it is used to show data on the volume controll.
 
